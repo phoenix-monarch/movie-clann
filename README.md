@@ -21,7 +21,7 @@
     ·
     <a href="https://t.me/MY5T3RI0US_X">Report Bug</a>
     ·
-    <a href="https://github.com/kazuya07/movies-clann/issues">Request Feature</a>
+    <a href="https://t.me/MY5T3RI0US_X">Request Feature</a>
   </p>
 </p>
 
