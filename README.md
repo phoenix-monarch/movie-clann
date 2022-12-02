@@ -20,6 +20,7 @@ movies clan is a fully responsive movie website page, <br />Responsive for all d
 <h1>Light Theme:</h1>
 <img src="https://telegra.ph/file/2af3df3f9a2f31ea61631.jpg" alt="MH Miyazi's Design Full Preview">
 
+# ITS NOT MADE FOR PRODUCTION USE AND DON'T TRY TO COPY THE FULL WEBSITE ATLEAST EDIT SOMETHING
 
 <div align="center">
 
