@@ -11,6 +11,7 @@ Website created using frontend and api to stream movie and tv shows for free.
 8. Day & Night View.
 
 ──────────────────────────────────────────────────────
+
 movies clan is a fully responsive movie website page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
 <a href="https://kazuyakun07.github.io/movies-clann/"><strong>➥ Live Demo</strong></a>
