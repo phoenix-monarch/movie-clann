@@ -1,14 +1,30 @@
 
 <div align="center">
 
-# movies-clann
-Website created using frontend and api to stream movie and tv shows for free.
+<!-- PROJECT LOGO -->
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://watchanymoviez.web.app/">
+    <img src="https://github.com/amoldalwai/Movie-Spider/blob/main/WatchAnyMovieLogo.png" alt="Logo" width="80" height="80">
+  </a>
 
-<div align="center">
+  <h3 align="center">WatchAnyMovie</h3>
 
-movies clan is a fully responsive movie website page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  <p align="center">
+ A free movie and webseries streaming application built using React,TMDb API, Firebase and Movie Spider API that lets you watch the movies and webseries directly on your browser.
+    <br />
+    <a href="https://github.com/amoldalwai/watch-any-movie/"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://watchanymoviez.web.app/">View Demo</a>
+    ·
+    <a href="https://github.com/amoldalwai/watch-any-movie/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/amoldalwai/watch-any-movie/issues">Request Feature</a>
+  </p>
+</p>
 
-<a href="https://kazuyakun07.github.io/movies-clann/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
