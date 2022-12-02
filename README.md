@@ -15,5 +15,5 @@ Live Preview: https://kazuyakun07.github.io/movies-clann/
 # Dark Theme:
 <img src="https://telegra.ph/file/380d6e31b7b59ccbc93a7.jpg" alt="MH Miyazi's Design Full Preview">
 <h1>Light Theme:</h1>
-<img src="img/FullPreviewLightTheme.png" alt="MH Miyazi's Design Full Preview">
+<img src="https://telegra.ph/file/2af3df3f9a2f31ea61631.jpg" alt="MH Miyazi's Design Full Preview">
 
