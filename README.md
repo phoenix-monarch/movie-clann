@@ -1,5 +1,4 @@
 <div align="center">
-
 # <p align="left"><a href="https://kazuyakun07.github.io/movies-clann/"><img src="https://github-readme-stats.vercel.app/api/pin?username=kazuyakun07&show_icons=true&theme=dark&hide_border=true&repo=movies-clann"></a></p>
 
 <div align="center">
