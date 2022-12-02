@@ -19,7 +19,7 @@
     <br />
     <a href="https://kazuyakun07.github.io/movies-clann/">View Demo</a>
     ·
-    <a href="https://github.com/kazuya07//issues">Report Bug</a>
+    <a href="https://t.me/MY5T3RI0US_X">Report Bug</a>
     ·
     <a href="https://github.com/kazuya07/movies-clann/issues">Request Feature</a>
   </p>
