@@ -9,6 +9,7 @@ Website created using frontend and api to stream movie and tv shows for free.
 6. Pop-Over Animation,
 7. Slider,
 8. Day & Night View.
+
 ╭⋟──────────────────────────────────────────────────────╮
 ├
 ├movies clan is a fully responsive movie website page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
@@ -16,6 +17,7 @@ Website created using frontend and api to stream movie and tv shows for free.
 ├ <a href="https://kazuyakun07.github.io/movies-clann/"><strong>➥ Live Demo</strong></a>
 ├
 ╰───────────────────────────────────────────────────────⋞
+
 </div>
 
 <br />
