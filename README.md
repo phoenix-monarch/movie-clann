@@ -17,7 +17,7 @@
     <a href="https://github.com/kazuyakun07/movies-clann/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/kazuyakun07/movie-clann">View Demo</a>
+    <a href="https://kazuyakun07.github.io/movie-clann/">View Demo</a>
     ·
     <a href="https://t.me/MY5T3RI0US_X">Report Bug</a>
     ·
