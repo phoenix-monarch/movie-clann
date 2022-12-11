@@ -14,10 +14,10 @@
   <p align="center">
  A free movie and webseries streaming application built using React,TMDb API, Firebase and Movie Spider API that lets you watch the movies and webseries directly on your browser.
     <br />
-    <a href="https://github.com/kazuyakun07/movies-clann/blob/main/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ITZ-KAZUYA/movies-clann/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://kazuyakun07.github.io/movie-clann/">View Demo</a>
+    <a href="https://ITZ-KAZUYA.github.io/movie-clann/">View Demo</a>
     ·
     <a href="https://t.me/MY5T3RI0US_X">Report Bug</a>
     ·
