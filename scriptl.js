@@ -75,11 +75,11 @@ overlaySideNavabar.addEventListener("click", function () {
     document.body.classList.remove("minimize_siderbar");
 });
 
-const myApi = "6b2dec73b6697866a50cdaef60ccffcb";
+const myApi = "1411bb8ba87014219ea8734b786b9230";
 
 const NowPlaying = async () => {
     const res = await fetch(
-        "https://api.themoviedb.org/3/movie/now_playing?api_key=680c99274ddab12ffac27271d9445d45&language=en-US&page=1"
+        "https://api.themoviedb.org/3/movie/now_playing?api_key=1411bb8ba87014219ea8734b786b9230&language=en-US&page=1"
     );
     const data = await res.json();
     const NowPlayingmovies = data.results;
@@ -89,7 +89,7 @@ const NowPlaying = async () => {
 
 const TodayTrending = async () => {
     const res = await fetch(
-        "https://api.themoviedb.org/3/trending/all/day?api_key=6b2dec73b6697866a50cdaef60ccffcb"
+        "https://api.themoviedb.org/3/trending/all/day?api_key=1411bb8ba87014219ea8734b786b9230"
     );
     const data = await res.json();
     const trendingtoday = data.results;
